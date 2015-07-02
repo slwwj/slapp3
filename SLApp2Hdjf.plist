@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.shanli.slapp2.hdjf</string>
+				<string>com.shanli.app2.hdjf</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
